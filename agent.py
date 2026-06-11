@@ -6,10 +6,10 @@ from google import genai
 # ⚙️ CONFIGURATION
 # ==========================================
 # 🔑 Replace with your actual key from AI Studio
-GEMINI_API_KEY = "tbd"
+GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
 
 # 🌐 Your deployed Cloud Run API URL
-FINOPS_API = "https://API_URL"
+FINOPS_API = "https://YOUR_CLOUD_RUN_URL"
 
 # 🤖 The specific model version available in your project
 MODEL_ID = "gemini-2.5-flash"
