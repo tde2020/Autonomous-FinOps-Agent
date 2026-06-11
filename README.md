@@ -155,7 +155,7 @@ Create a GitLab personal access token with `api` scope.
 The app currently uses this project ID:
 
 ```python
-GITLAB_PROJECT_ID = "my-gitlab-project-id"
+GITLAB_PROJECT_ID = "YOUR_GITLAB_PROJECT_ID"
 ```
 
 Update it in `main.py` if you use another repo.
