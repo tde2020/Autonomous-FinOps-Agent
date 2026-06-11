@@ -234,9 +234,10 @@ Generate Recommendations
 Create GitLab Issue
 ```
 
-## Devpost Summary
+## Summary
 
 Autonomous FinOps Agent closes the loop between cloud cost visibility and engineering action. Instead of only reporting spend anomalies, it detects issues, explains business impact, and creates actionable GitLab tickets for teams to fix them.
+(Configurations to replace with your parameters: YOUR_GCP_PROJECT_ID, YOUR_GITLAB_PROJECT_ID, YOUR_GEMINI_API_KEY, YOUR_CLOUD_RUN_URL)
 
 ## Disclaimer
 
