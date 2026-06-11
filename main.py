@@ -143,6 +143,8 @@ def full_finops_report():
 #        "message": "Mock ticket created (GitLab integration later)"
 #    }
 
+# Integration to gitlab and create ticket
+
 from pydantic import BaseModel
 import requests
 
