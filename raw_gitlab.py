@@ -5,7 +5,7 @@ from google.cloud import secretmanager
 def get_gitlab_token():
     client = secretmanager.SecretManagerServiceClient()
 
-    project_id = "my-project-id"  # 👈 your GCP project ID
+    project_id = "<YOUR_GCP_PROJECT_ID>"  # 👈 your GCP project ID
     secret_id = "gitlab-token"
 
     name = f"projects/{project_id}/secrets/{secret_id}/versions/latest"
