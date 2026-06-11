@@ -159,7 +159,7 @@ def create_ticket(req: TicketRequest):
         token = get_gitlab_token()
 
         # replace <my-gitlan-project-id> below with the project id
-        url = "https://gitlab.com/api/v4/projects/<my-gitlab-project-id>/issues" 
+        url = "https://gitlab.com/api/v4/projects/<YOUR_GITLAB_PROJECT_ID>/issues" 
 
         headers = {
             "PRIVATE-TOKEN": token,
