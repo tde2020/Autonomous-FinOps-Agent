@@ -1,0 +1,811 @@
+date,project_id,service,sku,cost_eur
+2026-05-01,proj-finance,Compute Engine,N1 Standard Core,11.85
+2026-05-01,proj-finance,Compute Engine,E2 Instance,15.09
+2026-05-01,proj-finance,Compute Engine,GPU NVIDIA T4,14.2
+2026-05-01,proj-finance,Cloud Storage,Standard Storage,21.02
+2026-05-01,proj-finance,Cloud Storage,Nearline Storage,21.16
+2026-05-01,proj-finance,BigQuery,Analysis Queries,15.24
+2026-05-01,proj-finance,BigQuery,Storage,38.96
+2026-05-01,proj-finance,Cloud SQL,DB Instance,29.26
+2026-05-01,proj-finance,Cloud SQL,Storage,17.19
+2026-05-01,proj-ml,Compute Engine,N1 Standard Core,5.08
+2026-05-01,proj-ml,Compute Engine,E2 Instance,29.74
+2026-05-01,proj-ml,Compute Engine,GPU NVIDIA T4,19.92
+2026-05-01,proj-ml,Cloud Storage,Standard Storage,6.44
+2026-05-01,proj-ml,Cloud Storage,Nearline Storage,42.14
+2026-05-01,proj-ml,BigQuery,Analysis Queries,9.91
+2026-05-01,proj-ml,BigQuery,Storage,5.34
+2026-05-01,proj-ml,Cloud SQL,DB Instance,33.28
+2026-05-01,proj-ml,Cloud SQL,Storage,40.53
+2026-05-01,proj-platform,Compute Engine,N1 Standard Core,13.39
+2026-05-01,proj-platform,Compute Engine,E2 Instance,7.06
+2026-05-01,proj-platform,Compute Engine,GPU NVIDIA T4,18.21
+2026-05-01,proj-platform,Cloud Storage,Standard Storage,30.98
+2026-05-01,proj-platform,Cloud Storage,Nearline Storage,9.86
+2026-05-01,proj-platform,BigQuery,Analysis Queries,5.31
+2026-05-01,proj-platform,BigQuery,Storage,39.72
+2026-05-01,proj-platform,Cloud SQL,DB Instance,39.35
+2026-05-01,proj-platform,Cloud SQL,Storage,10.96
+2026-05-02,proj-finance,Compute Engine,N1 Standard Core,44.93
+2026-05-02,proj-finance,Compute Engine,E2 Instance,5.78
+2026-05-02,proj-finance,Compute Engine,GPU NVIDIA T4,15.92
+2026-05-02,proj-finance,Cloud Storage,Standard Storage,6.47
+2026-05-02,proj-finance,Cloud Storage,Nearline Storage,7.73
+2026-05-02,proj-finance,BigQuery,Analysis Queries,10.53
+2026-05-02,proj-finance,BigQuery,Storage,18.63
+2026-05-02,proj-finance,Cloud SQL,DB Instance,43.39
+2026-05-02,proj-finance,Cloud SQL,Storage,24.13
+2026-05-02,proj-ml,Compute Engine,N1 Standard Core,25.41
+2026-05-02,proj-ml,Compute Engine,E2 Instance,10.03
+2026-05-02,proj-ml,Compute Engine,GPU NVIDIA T4,33.03
+2026-05-02,proj-ml,Cloud Storage,Standard Storage,33.07
+2026-05-02,proj-ml,Cloud Storage,Nearline Storage,33.83
+2026-05-02,proj-ml,BigQuery,Analysis Queries,11.73
+2026-05-02,proj-ml,BigQuery,Storage,21.29
+2026-05-02,proj-ml,Cloud SQL,DB Instance,26.25
+2026-05-02,proj-ml,Cloud SQL,Storage,40.31
+2026-05-02,proj-platform,Compute Engine,N1 Standard Core,12.65
+2026-05-02,proj-platform,Compute Engine,E2 Instance,28.0
+2026-05-02,proj-platform,Compute Engine,GPU NVIDIA T4,39.87
+2026-05-02,proj-platform,Cloud Storage,Standard Storage,32.89
+2026-05-02,proj-platform,Cloud Storage,Nearline Storage,42.9
+2026-05-02,proj-platform,BigQuery,Analysis Queries,42.26
+2026-05-02,proj-platform,BigQuery,Storage,25.57
+2026-05-02,proj-platform,Cloud SQL,DB Instance,12.0
+2026-05-02,proj-platform,Cloud SQL,Storage,21.38
+2026-05-03,proj-finance,Compute Engine,N1 Standard Core,29.42
+2026-05-03,proj-finance,Compute Engine,E2 Instance,19.48
+2026-05-03,proj-finance,Compute Engine,GPU NVIDIA T4,14.28
+2026-05-03,proj-finance,Cloud Storage,Standard Storage,48.45
+2026-05-03,proj-finance,Cloud Storage,Nearline Storage,43.5
+2026-05-03,proj-finance,BigQuery,Analysis Queries,40.58
+2026-05-03,proj-finance,BigQuery,Storage,27.04
+2026-05-03,proj-finance,Cloud SQL,DB Instance,29.6
+2026-05-03,proj-finance,Cloud SQL,Storage,33.02
+2026-05-03,proj-ml,Compute Engine,N1 Standard Core,10.44
+2026-05-03,proj-ml,Compute Engine,E2 Instance,6.85
+2026-05-03,proj-ml,Compute Engine,GPU NVIDIA T4,19.0
+2026-05-03,proj-ml,Cloud Storage,Standard Storage,19.42
+2026-05-03,proj-ml,Cloud Storage,Nearline Storage,43.3
+2026-05-03,proj-ml,BigQuery,Analysis Queries,32.66
+2026-05-03,proj-ml,BigQuery,Storage,21.67
+2026-05-03,proj-ml,Cloud SQL,DB Instance,19.88
+2026-05-03,proj-ml,Cloud SQL,Storage,5.26
+2026-05-03,proj-platform,Compute Engine,N1 Standard Core,32.37
+2026-05-03,proj-platform,Compute Engine,E2 Instance,22.91
+2026-05-03,proj-platform,Compute Engine,GPU NVIDIA T4,46.94
+2026-05-03,proj-platform,Cloud Storage,Standard Storage,26.72
+2026-05-03,proj-platform,Cloud Storage,Nearline Storage,6.15
+2026-05-03,proj-platform,BigQuery,Analysis Queries,31.63
+2026-05-03,proj-platform,BigQuery,Storage,45.86
+2026-05-03,proj-platform,Cloud SQL,DB Instance,29.72
+2026-05-03,proj-platform,Cloud SQL,Storage,6.1
+2026-05-04,proj-finance,Compute Engine,N1 Standard Core,47.39
+2026-05-04,proj-finance,Compute Engine,E2 Instance,17.29
+2026-05-04,proj-finance,Compute Engine,GPU NVIDIA T4,16.5
+2026-05-04,proj-finance,Cloud Storage,Standard Storage,5.21
+2026-05-04,proj-finance,Cloud Storage,Nearline Storage,41.86
+2026-05-04,proj-finance,BigQuery,Analysis Queries,24.96
+2026-05-04,proj-finance,BigQuery,Storage,42.53
+2026-05-04,proj-finance,Cloud SQL,DB Instance,15.06
+2026-05-04,proj-finance,Cloud SQL,Storage,7.12
+2026-05-04,proj-ml,Compute Engine,N1 Standard Core,38.4
+2026-05-04,proj-ml,Compute Engine,E2 Instance,31.48
+2026-05-04,proj-ml,Compute Engine,GPU NVIDIA T4,48.14
+2026-05-04,proj-ml,Cloud Storage,Standard Storage,47.83
+2026-05-04,proj-ml,Cloud Storage,Nearline Storage,12.8
+2026-05-04,proj-ml,BigQuery,Analysis Queries,36.3
+2026-05-04,proj-ml,BigQuery,Storage,21.29
+2026-05-04,proj-ml,Cloud SQL,DB Instance,7.22
+2026-05-04,proj-ml,Cloud SQL,Storage,12.9
+2026-05-04,proj-platform,Compute Engine,N1 Standard Core,14.0
+2026-05-04,proj-platform,Compute Engine,E2 Instance,5.25
+2026-05-04,proj-platform,Compute Engine,GPU NVIDIA T4,28.29
+2026-05-04,proj-platform,Cloud Storage,Standard Storage,17.8
+2026-05-04,proj-platform,Cloud Storage,Nearline Storage,26.8
+2026-05-04,proj-platform,BigQuery,Analysis Queries,41.43
+2026-05-04,proj-platform,BigQuery,Storage,11.89
+2026-05-04,proj-platform,Cloud SQL,DB Instance,43.31
+2026-05-04,proj-platform,Cloud SQL,Storage,19.72
+2026-05-05,proj-finance,Compute Engine,N1 Standard Core,30.17
+2026-05-05,proj-finance,Compute Engine,E2 Instance,40.89
+2026-05-05,proj-finance,Compute Engine,GPU NVIDIA T4,41.83
+2026-05-05,proj-finance,Cloud Storage,Standard Storage,28.83
+2026-05-05,proj-finance,Cloud Storage,Nearline Storage,44.53
+2026-05-05,proj-finance,BigQuery,Analysis Queries,27.25
+2026-05-05,proj-finance,BigQuery,Storage,46.84
+2026-05-05,proj-finance,Cloud SQL,DB Instance,31.46
+2026-05-05,proj-finance,Cloud SQL,Storage,45.49
+2026-05-05,proj-ml,Compute Engine,N1 Standard Core,23.02
+2026-05-05,proj-ml,Compute Engine,E2 Instance,22.77
+2026-05-05,proj-ml,Compute Engine,GPU NVIDIA T4,11.23
+2026-05-05,proj-ml,Cloud Storage,Standard Storage,7.77
+2026-05-05,proj-ml,Cloud Storage,Nearline Storage,17.45
+2026-05-05,proj-ml,BigQuery,Analysis Queries,33.65
+2026-05-05,proj-ml,BigQuery,Storage,7.67
+2026-05-05,proj-ml,Cloud SQL,DB Instance,40.4
+2026-05-05,proj-ml,Cloud SQL,Storage,26.94
+2026-05-05,proj-platform,Compute Engine,N1 Standard Core,39.95
+2026-05-05,proj-platform,Compute Engine,E2 Instance,31.95
+2026-05-05,proj-platform,Compute Engine,GPU NVIDIA T4,14.85
+2026-05-05,proj-platform,Cloud Storage,Standard Storage,36.37
+2026-05-05,proj-platform,Cloud Storage,Nearline Storage,41.91
+2026-05-05,proj-platform,BigQuery,Analysis Queries,26.47
+2026-05-05,proj-platform,BigQuery,Storage,11.59
+2026-05-05,proj-platform,Cloud SQL,DB Instance,41.05
+2026-05-05,proj-platform,Cloud SQL,Storage,44.3
+2026-05-06,proj-finance,Compute Engine,N1 Standard Core,44.34
+2026-05-06,proj-finance,Compute Engine,E2 Instance,24.25
+2026-05-06,proj-finance,Compute Engine,GPU NVIDIA T4,12.87
+2026-05-06,proj-finance,Cloud Storage,Standard Storage,9.73
+2026-05-06,proj-finance,Cloud Storage,Nearline Storage,13.7
+2026-05-06,proj-finance,BigQuery,Analysis Queries,20.23
+2026-05-06,proj-finance,BigQuery,Storage,37.62
+2026-05-06,proj-finance,Cloud SQL,DB Instance,46.94
+2026-05-06,proj-finance,Cloud SQL,Storage,45.31
+2026-05-06,proj-ml,Compute Engine,N1 Standard Core,35.56
+2026-05-06,proj-ml,Compute Engine,E2 Instance,29.32
+2026-05-06,proj-ml,Compute Engine,GPU NVIDIA T4,42.58
+2026-05-06,proj-ml,Cloud Storage,Standard Storage,26.95
+2026-05-06,proj-ml,Cloud Storage,Nearline Storage,43.31
+2026-05-06,proj-ml,BigQuery,Analysis Queries,15.41
+2026-05-06,proj-ml,BigQuery,Storage,35.94
+2026-05-06,proj-ml,Cloud SQL,DB Instance,32.99
+2026-05-06,proj-ml,Cloud SQL,Storage,32.84
+2026-05-06,proj-platform,Compute Engine,N1 Standard Core,5.45
+2026-05-06,proj-platform,Compute Engine,E2 Instance,47.91
+2026-05-06,proj-platform,Compute Engine,GPU NVIDIA T4,28.61
+2026-05-06,proj-platform,Cloud Storage,Standard Storage,33.3
+2026-05-06,proj-platform,Cloud Storage,Nearline Storage,6.51
+2026-05-06,proj-platform,BigQuery,Analysis Queries,16.06
+2026-05-06,proj-platform,BigQuery,Storage,48.17
+2026-05-06,proj-platform,Cloud SQL,DB Instance,37.25
+2026-05-06,proj-platform,Cloud SQL,Storage,37.04
+2026-05-07,proj-finance,Compute Engine,N1 Standard Core,39.59
+2026-05-07,proj-finance,Compute Engine,E2 Instance,40.61
+2026-05-07,proj-finance,Compute Engine,GPU NVIDIA T4,33.02
+2026-05-07,proj-finance,Cloud Storage,Standard Storage,6.94
+2026-05-07,proj-finance,Cloud Storage,Nearline Storage,45.63
+2026-05-07,proj-finance,BigQuery,Analysis Queries,16.83
+2026-05-07,proj-finance,BigQuery,Storage,48.35
+2026-05-07,proj-finance,Cloud SQL,DB Instance,42.05
+2026-05-07,proj-finance,Cloud SQL,Storage,38.24
+2026-05-07,proj-ml,Compute Engine,N1 Standard Core,28.37
+2026-05-07,proj-ml,Compute Engine,E2 Instance,28.05
+2026-05-07,proj-ml,Compute Engine,GPU NVIDIA T4,43.72
+2026-05-07,proj-ml,Cloud Storage,Standard Storage,14.86
+2026-05-07,proj-ml,Cloud Storage,Nearline Storage,8.48
+2026-05-07,proj-ml,BigQuery,Analysis Queries,12.03
+2026-05-07,proj-ml,BigQuery,Storage,6.54
+2026-05-07,proj-ml,Cloud SQL,DB Instance,21.13
+2026-05-07,proj-ml,Cloud SQL,Storage,7.56
+2026-05-07,proj-platform,Compute Engine,N1 Standard Core,14.67
+2026-05-07,proj-platform,Compute Engine,E2 Instance,34.11
+2026-05-07,proj-platform,Compute Engine,GPU NVIDIA T4,42.65
+2026-05-07,proj-platform,Cloud Storage,Standard Storage,7.2
+2026-05-07,proj-platform,Cloud Storage,Nearline Storage,8.88
+2026-05-07,proj-platform,BigQuery,Analysis Queries,5.1
+2026-05-07,proj-platform,BigQuery,Storage,35.9
+2026-05-07,proj-platform,Cloud SQL,DB Instance,29.25
+2026-05-07,proj-platform,Cloud SQL,Storage,40.34
+2026-05-08,proj-finance,Compute Engine,N1 Standard Core,48.94
+2026-05-08,proj-finance,Compute Engine,E2 Instance,9.91
+2026-05-08,proj-finance,Compute Engine,GPU NVIDIA T4,18.62
+2026-05-08,proj-finance,Cloud Storage,Standard Storage,49.89
+2026-05-08,proj-finance,Cloud Storage,Nearline Storage,38.86
+2026-05-08,proj-finance,BigQuery,Analysis Queries,13.39
+2026-05-08,proj-finance,BigQuery,Storage,44.79
+2026-05-08,proj-finance,Cloud SQL,DB Instance,40.29
+2026-05-08,proj-finance,Cloud SQL,Storage,17.11
+2026-05-08,proj-ml,Compute Engine,N1 Standard Core,32.58
+2026-05-08,proj-ml,Compute Engine,E2 Instance,31.76
+2026-05-08,proj-ml,Compute Engine,GPU NVIDIA T4,37.69
+2026-05-08,proj-ml,Cloud Storage,Standard Storage,30.0
+2026-05-08,proj-ml,Cloud Storage,Nearline Storage,7.66
+2026-05-08,proj-ml,BigQuery,Analysis Queries,23.57
+2026-05-08,proj-ml,BigQuery,Storage,8.04
+2026-05-08,proj-ml,Cloud SQL,DB Instance,19.59
+2026-05-08,proj-ml,Cloud SQL,Storage,12.93
+2026-05-08,proj-platform,Compute Engine,N1 Standard Core,32.71
+2026-05-08,proj-platform,Compute Engine,E2 Instance,13.0
+2026-05-08,proj-platform,Compute Engine,GPU NVIDIA T4,16.92
+2026-05-08,proj-platform,Cloud Storage,Standard Storage,6.94
+2026-05-08,proj-platform,Cloud Storage,Nearline Storage,18.88
+2026-05-08,proj-platform,BigQuery,Analysis Queries,16.82
+2026-05-08,proj-platform,BigQuery,Storage,25.39
+2026-05-08,proj-platform,Cloud SQL,DB Instance,32.06
+2026-05-08,proj-platform,Cloud SQL,Storage,40.69
+2026-05-09,proj-finance,Compute Engine,N1 Standard Core,33.55
+2026-05-09,proj-finance,Compute Engine,E2 Instance,28.38
+2026-05-09,proj-finance,Compute Engine,GPU NVIDIA T4,42.32
+2026-05-09,proj-finance,Cloud Storage,Standard Storage,10.25
+2026-05-09,proj-finance,Cloud Storage,Nearline Storage,48.77
+2026-05-09,proj-finance,BigQuery,Analysis Queries,39.54
+2026-05-09,proj-finance,BigQuery,Storage,36.3
+2026-05-09,proj-finance,Cloud SQL,DB Instance,46.84
+2026-05-09,proj-finance,Cloud SQL,Storage,30.81
+2026-05-09,proj-ml,Compute Engine,N1 Standard Core,41.98
+2026-05-09,proj-ml,Compute Engine,E2 Instance,12.72
+2026-05-09,proj-ml,Compute Engine,GPU NVIDIA T4,49.58
+2026-05-09,proj-ml,Cloud Storage,Standard Storage,40.25
+2026-05-09,proj-ml,Cloud Storage,Nearline Storage,24.33
+2026-05-09,proj-ml,BigQuery,Analysis Queries,45.43
+2026-05-09,proj-ml,BigQuery,Storage,35.16
+2026-05-09,proj-ml,Cloud SQL,DB Instance,28.13
+2026-05-09,proj-ml,Cloud SQL,Storage,33.05
+2026-05-09,proj-platform,Compute Engine,N1 Standard Core,41.61
+2026-05-09,proj-platform,Compute Engine,E2 Instance,35.46
+2026-05-09,proj-platform,Compute Engine,GPU NVIDIA T4,31.47
+2026-05-09,proj-platform,Cloud Storage,Standard Storage,6.45
+2026-05-09,proj-platform,Cloud Storage,Nearline Storage,43.97
+2026-05-09,proj-platform,BigQuery,Analysis Queries,36.1
+2026-05-09,proj-platform,BigQuery,Storage,32.95
+2026-05-09,proj-platform,Cloud SQL,DB Instance,29.15
+2026-05-09,proj-platform,Cloud SQL,Storage,28.1
+2026-05-10,proj-finance,Compute Engine,N1 Standard Core,44.28
+2026-05-10,proj-finance,Compute Engine,E2 Instance,35.35
+2026-05-10,proj-finance,Compute Engine,GPU NVIDIA T4,49.43
+2026-05-10,proj-finance,Cloud Storage,Standard Storage,27.76
+2026-05-10,proj-finance,Cloud Storage,Nearline Storage,23.66
+2026-05-10,proj-finance,BigQuery,Analysis Queries,43.18
+2026-05-10,proj-finance,BigQuery,Storage,9.28
+2026-05-10,proj-finance,Cloud SQL,DB Instance,21.86
+2026-05-10,proj-finance,Cloud SQL,Storage,10.52
+2026-05-10,proj-ml,Compute Engine,N1 Standard Core,36.33
+2026-05-10,proj-ml,Compute Engine,E2 Instance,17.17
+2026-05-10,proj-ml,Compute Engine,GPU NVIDIA T4,18.3
+2026-05-10,proj-ml,Cloud Storage,Standard Storage,13.82
+2026-05-10,proj-ml,Cloud Storage,Nearline Storage,11.16
+2026-05-10,proj-ml,BigQuery,Analysis Queries,30.66
+2026-05-10,proj-ml,BigQuery,Storage,22.27
+2026-05-10,proj-ml,Cloud SQL,DB Instance,11.49
+2026-05-10,proj-ml,Cloud SQL,Storage,41.31
+2026-05-10,proj-platform,Compute Engine,N1 Standard Core,17.99
+2026-05-10,proj-platform,Compute Engine,E2 Instance,40.48
+2026-05-10,proj-platform,Compute Engine,GPU NVIDIA T4,27.26
+2026-05-10,proj-platform,Cloud Storage,Standard Storage,31.75
+2026-05-10,proj-platform,Cloud Storage,Nearline Storage,24.1
+2026-05-10,proj-platform,BigQuery,Analysis Queries,45.62
+2026-05-10,proj-platform,BigQuery,Storage,25.15
+2026-05-10,proj-platform,Cloud SQL,DB Instance,5.62
+2026-05-10,proj-platform,Cloud SQL,Storage,29.45
+2026-05-11,proj-finance,Compute Engine,N1 Standard Core,32.94
+2026-05-11,proj-finance,Compute Engine,E2 Instance,5.65
+2026-05-11,proj-finance,Compute Engine,GPU NVIDIA T4,40.87
+2026-05-11,proj-finance,Cloud Storage,Standard Storage,41.1
+2026-05-11,proj-finance,Cloud Storage,Nearline Storage,25.7
+2026-05-11,proj-finance,BigQuery,Analysis Queries,36.73
+2026-05-11,proj-finance,BigQuery,Storage,29.0
+2026-05-11,proj-finance,Cloud SQL,DB Instance,33.04
+2026-05-11,proj-finance,Cloud SQL,Storage,24.23
+2026-05-11,proj-ml,Compute Engine,N1 Standard Core,92.58
+2026-05-11,proj-ml,Compute Engine,E2 Instance,48.95
+2026-05-11,proj-ml,Compute Engine,GPU NVIDIA T4,140.8
+2026-05-11,proj-ml,Cloud Storage,Standard Storage,16.95
+2026-05-11,proj-ml,Cloud Storage,Nearline Storage,43.81
+2026-05-11,proj-ml,BigQuery,Analysis Queries,40.14
+2026-05-11,proj-ml,BigQuery,Storage,9.16
+2026-05-11,proj-ml,Cloud SQL,DB Instance,28.24
+2026-05-11,proj-ml,Cloud SQL,Storage,24.41
+2026-05-11,proj-platform,Compute Engine,N1 Standard Core,29.33
+2026-05-11,proj-platform,Compute Engine,E2 Instance,13.1
+2026-05-11,proj-platform,Compute Engine,GPU NVIDIA T4,33.59
+2026-05-11,proj-platform,Cloud Storage,Standard Storage,44.7
+2026-05-11,proj-platform,Cloud Storage,Nearline Storage,26.15
+2026-05-11,proj-platform,BigQuery,Analysis Queries,23.98
+2026-05-11,proj-platform,BigQuery,Storage,10.27
+2026-05-11,proj-platform,Cloud SQL,DB Instance,17.04
+2026-05-11,proj-platform,Cloud SQL,Storage,43.37
+2026-05-12,proj-finance,Compute Engine,N1 Standard Core,45.59
+2026-05-12,proj-finance,Compute Engine,E2 Instance,32.92
+2026-05-12,proj-finance,Compute Engine,GPU NVIDIA T4,6.33
+2026-05-12,proj-finance,Cloud Storage,Standard Storage,41.58
+2026-05-12,proj-finance,Cloud Storage,Nearline Storage,49.88
+2026-05-12,proj-finance,BigQuery,Analysis Queries,22.19
+2026-05-12,proj-finance,BigQuery,Storage,25.41
+2026-05-12,proj-finance,Cloud SQL,DB Instance,36.58
+2026-05-12,proj-finance,Cloud SQL,Storage,38.84
+2026-05-12,proj-ml,Compute Engine,N1 Standard Core,57.72
+2026-05-12,proj-ml,Compute Engine,E2 Instance,62.45
+2026-05-12,proj-ml,Compute Engine,GPU NVIDIA T4,68.74
+2026-05-12,proj-ml,Cloud Storage,Standard Storage,7.9
+2026-05-12,proj-ml,Cloud Storage,Nearline Storage,32.93
+2026-05-12,proj-ml,BigQuery,Analysis Queries,9.72
+2026-05-12,proj-ml,BigQuery,Storage,49.09
+2026-05-12,proj-ml,Cloud SQL,DB Instance,41.28
+2026-05-12,proj-ml,Cloud SQL,Storage,34.32
+2026-05-12,proj-platform,Compute Engine,N1 Standard Core,45.47
+2026-05-12,proj-platform,Compute Engine,E2 Instance,27.86
+2026-05-12,proj-platform,Compute Engine,GPU NVIDIA T4,44.47
+2026-05-12,proj-platform,Cloud Storage,Standard Storage,48.16
+2026-05-12,proj-platform,Cloud Storage,Nearline Storage,38.17
+2026-05-12,proj-platform,BigQuery,Analysis Queries,26.31
+2026-05-12,proj-platform,BigQuery,Storage,42.55
+2026-05-12,proj-platform,Cloud SQL,DB Instance,24.2
+2026-05-12,proj-platform,Cloud SQL,Storage,20.31
+2026-05-13,proj-finance,Compute Engine,N1 Standard Core,10.47
+2026-05-13,proj-finance,Compute Engine,E2 Instance,26.58
+2026-05-13,proj-finance,Compute Engine,GPU NVIDIA T4,23.88
+2026-05-13,proj-finance,Cloud Storage,Standard Storage,21.02
+2026-05-13,proj-finance,Cloud Storage,Nearline Storage,35.97
+2026-05-13,proj-finance,BigQuery,Analysis Queries,23.25
+2026-05-13,proj-finance,BigQuery,Storage,34.3
+2026-05-13,proj-finance,Cloud SQL,DB Instance,27.75
+2026-05-13,proj-finance,Cloud SQL,Storage,32.98
+2026-05-13,proj-ml,Compute Engine,N1 Standard Core,142.42
+2026-05-13,proj-ml,Compute Engine,E2 Instance,180.37
+2026-05-13,proj-ml,Compute Engine,GPU NVIDIA T4,16.72
+2026-05-13,proj-ml,Cloud Storage,Standard Storage,38.79
+2026-05-13,proj-ml,Cloud Storage,Nearline Storage,42.49
+2026-05-13,proj-ml,BigQuery,Analysis Queries,10.64
+2026-05-13,proj-ml,BigQuery,Storage,6.65
+2026-05-13,proj-ml,Cloud SQL,DB Instance,8.58
+2026-05-13,proj-ml,Cloud SQL,Storage,42.76
+2026-05-13,proj-platform,Compute Engine,N1 Standard Core,30.53
+2026-05-13,proj-platform,Compute Engine,E2 Instance,42.89
+2026-05-13,proj-platform,Compute Engine,GPU NVIDIA T4,46.2
+2026-05-13,proj-platform,Cloud Storage,Standard Storage,32.29
+2026-05-13,proj-platform,Cloud Storage,Nearline Storage,23.8
+2026-05-13,proj-platform,BigQuery,Analysis Queries,20.21
+2026-05-13,proj-platform,BigQuery,Storage,30.03
+2026-05-13,proj-platform,Cloud SQL,DB Instance,46.56
+2026-05-13,proj-platform,Cloud SQL,Storage,15.13
+2026-05-14,proj-finance,Compute Engine,N1 Standard Core,36.12
+2026-05-14,proj-finance,Compute Engine,E2 Instance,16.78
+2026-05-14,proj-finance,Compute Engine,GPU NVIDIA T4,45.68
+2026-05-14,proj-finance,Cloud Storage,Standard Storage,43.15
+2026-05-14,proj-finance,Cloud Storage,Nearline Storage,7.04
+2026-05-14,proj-finance,BigQuery,Analysis Queries,13.51
+2026-05-14,proj-finance,BigQuery,Storage,21.5
+2026-05-14,proj-finance,Cloud SQL,DB Instance,23.26
+2026-05-14,proj-finance,Cloud SQL,Storage,25.21
+2026-05-14,proj-ml,Compute Engine,N1 Standard Core,46.49
+2026-05-14,proj-ml,Compute Engine,E2 Instance,28.08
+2026-05-14,proj-ml,Compute Engine,GPU NVIDIA T4,7.33
+2026-05-14,proj-ml,Cloud Storage,Standard Storage,35.92
+2026-05-14,proj-ml,Cloud Storage,Nearline Storage,30.86
+2026-05-14,proj-ml,BigQuery,Analysis Queries,18.19
+2026-05-14,proj-ml,BigQuery,Storage,43.28
+2026-05-14,proj-ml,Cloud SQL,DB Instance,45.38
+2026-05-14,proj-ml,Cloud SQL,Storage,8.57
+2026-05-14,proj-platform,Compute Engine,N1 Standard Core,33.24
+2026-05-14,proj-platform,Compute Engine,E2 Instance,47.97
+2026-05-14,proj-platform,Compute Engine,GPU NVIDIA T4,12.31
+2026-05-14,proj-platform,Cloud Storage,Standard Storage,32.5
+2026-05-14,proj-platform,Cloud Storage,Nearline Storage,49.66
+2026-05-14,proj-platform,BigQuery,Analysis Queries,12.1
+2026-05-14,proj-platform,BigQuery,Storage,49.23
+2026-05-14,proj-platform,Cloud SQL,DB Instance,9.37
+2026-05-14,proj-platform,Cloud SQL,Storage,43.06
+2026-05-15,proj-finance,Compute Engine,N1 Standard Core,43.52
+2026-05-15,proj-finance,Compute Engine,E2 Instance,6.97
+2026-05-15,proj-finance,Compute Engine,GPU NVIDIA T4,5.46
+2026-05-15,proj-finance,Cloud Storage,Standard Storage,29.07
+2026-05-15,proj-finance,Cloud Storage,Nearline Storage,41.95
+2026-05-15,proj-finance,BigQuery,Analysis Queries,30.4
+2026-05-15,proj-finance,BigQuery,Storage,47.78
+2026-05-15,proj-finance,Cloud SQL,DB Instance,45.96
+2026-05-15,proj-finance,Cloud SQL,Storage,49.29
+2026-05-15,proj-ml,Compute Engine,N1 Standard Core,22.99
+2026-05-15,proj-ml,Compute Engine,E2 Instance,8.34
+2026-05-15,proj-ml,Compute Engine,GPU NVIDIA T4,6.92
+2026-05-15,proj-ml,Cloud Storage,Standard Storage,10.42
+2026-05-15,proj-ml,Cloud Storage,Nearline Storage,18.72
+2026-05-15,proj-ml,BigQuery,Analysis Queries,44.83
+2026-05-15,proj-ml,BigQuery,Storage,10.4
+2026-05-15,proj-ml,Cloud SQL,DB Instance,12.64
+2026-05-15,proj-ml,Cloud SQL,Storage,24.59
+2026-05-15,proj-platform,Compute Engine,N1 Standard Core,10.97
+2026-05-15,proj-platform,Compute Engine,E2 Instance,22.54
+2026-05-15,proj-platform,Compute Engine,GPU NVIDIA T4,17.34
+2026-05-15,proj-platform,Cloud Storage,Standard Storage,8.99
+2026-05-15,proj-platform,Cloud Storage,Nearline Storage,33.91
+2026-05-15,proj-platform,BigQuery,Analysis Queries,16.83
+2026-05-15,proj-platform,BigQuery,Storage,11.8
+2026-05-15,proj-platform,Cloud SQL,DB Instance,33.64
+2026-05-15,proj-platform,Cloud SQL,Storage,9.01
+2026-05-16,proj-finance,Compute Engine,N1 Standard Core,24.66
+2026-05-16,proj-finance,Compute Engine,E2 Instance,20.77
+2026-05-16,proj-finance,Compute Engine,GPU NVIDIA T4,36.81
+2026-05-16,proj-finance,Cloud Storage,Standard Storage,9.42
+2026-05-16,proj-finance,Cloud Storage,Nearline Storage,35.24
+2026-05-16,proj-finance,BigQuery,Analysis Queries,37.23
+2026-05-16,proj-finance,BigQuery,Storage,28.34
+2026-05-16,proj-finance,Cloud SQL,DB Instance,35.98
+2026-05-16,proj-finance,Cloud SQL,Storage,36.84
+2026-05-16,proj-ml,Compute Engine,N1 Standard Core,41.1
+2026-05-16,proj-ml,Compute Engine,E2 Instance,18.66
+2026-05-16,proj-ml,Compute Engine,GPU NVIDIA T4,35.39
+2026-05-16,proj-ml,Cloud Storage,Standard Storage,18.01
+2026-05-16,proj-ml,Cloud Storage,Nearline Storage,31.31
+2026-05-16,proj-ml,BigQuery,Analysis Queries,5.58
+2026-05-16,proj-ml,BigQuery,Storage,21.42
+2026-05-16,proj-ml,Cloud SQL,DB Instance,45.22
+2026-05-16,proj-ml,Cloud SQL,Storage,47.3
+2026-05-16,proj-platform,Compute Engine,N1 Standard Core,34.49
+2026-05-16,proj-platform,Compute Engine,E2 Instance,13.68
+2026-05-16,proj-platform,Compute Engine,GPU NVIDIA T4,19.35
+2026-05-16,proj-platform,Cloud Storage,Standard Storage,22.48
+2026-05-16,proj-platform,Cloud Storage,Nearline Storage,28.5
+2026-05-16,proj-platform,BigQuery,Analysis Queries,23.41
+2026-05-16,proj-platform,BigQuery,Storage,6.35
+2026-05-16,proj-platform,Cloud SQL,DB Instance,37.02
+2026-05-16,proj-platform,Cloud SQL,Storage,22.67
+2026-05-17,proj-finance,Compute Engine,N1 Standard Core,44.04
+2026-05-17,proj-finance,Compute Engine,E2 Instance,31.05
+2026-05-17,proj-finance,Compute Engine,GPU NVIDIA T4,47.19
+2026-05-17,proj-finance,Cloud Storage,Standard Storage,43.3
+2026-05-17,proj-finance,Cloud Storage,Nearline Storage,24.67
+2026-05-17,proj-finance,BigQuery,Analysis Queries,13.61
+2026-05-17,proj-finance,BigQuery,Storage,16.31
+2026-05-17,proj-finance,Cloud SQL,DB Instance,6.95
+2026-05-17,proj-finance,Cloud SQL,Storage,17.42
+2026-05-17,proj-ml,Compute Engine,N1 Standard Core,5.81
+2026-05-17,proj-ml,Compute Engine,E2 Instance,9.54
+2026-05-17,proj-ml,Compute Engine,GPU NVIDIA T4,23.57
+2026-05-17,proj-ml,Cloud Storage,Standard Storage,6.88
+2026-05-17,proj-ml,Cloud Storage,Nearline Storage,15.29
+2026-05-17,proj-ml,BigQuery,Analysis Queries,37.46
+2026-05-17,proj-ml,BigQuery,Storage,39.4
+2026-05-17,proj-ml,Cloud SQL,DB Instance,46.17
+2026-05-17,proj-ml,Cloud SQL,Storage,25.6
+2026-05-17,proj-platform,Compute Engine,N1 Standard Core,31.78
+2026-05-17,proj-platform,Compute Engine,E2 Instance,14.73
+2026-05-17,proj-platform,Compute Engine,GPU NVIDIA T4,30.8
+2026-05-17,proj-platform,Cloud Storage,Standard Storage,16.24
+2026-05-17,proj-platform,Cloud Storage,Nearline Storage,24.48
+2026-05-17,proj-platform,BigQuery,Analysis Queries,47.34
+2026-05-17,proj-platform,BigQuery,Storage,5.64
+2026-05-17,proj-platform,Cloud SQL,DB Instance,7.21
+2026-05-17,proj-platform,Cloud SQL,Storage,6.27
+2026-05-18,proj-finance,Compute Engine,N1 Standard Core,32.43
+2026-05-18,proj-finance,Compute Engine,E2 Instance,49.48
+2026-05-18,proj-finance,Compute Engine,GPU NVIDIA T4,48.33
+2026-05-18,proj-finance,Cloud Storage,Standard Storage,17.08
+2026-05-18,proj-finance,Cloud Storage,Nearline Storage,46.48
+2026-05-18,proj-finance,BigQuery,Analysis Queries,23.91
+2026-05-18,proj-finance,BigQuery,Storage,11.7
+2026-05-18,proj-finance,Cloud SQL,DB Instance,26.45
+2026-05-18,proj-finance,Cloud SQL,Storage,28.51
+2026-05-18,proj-ml,Compute Engine,N1 Standard Core,29.95
+2026-05-18,proj-ml,Compute Engine,E2 Instance,16.36
+2026-05-18,proj-ml,Compute Engine,GPU NVIDIA T4,38.29
+2026-05-18,proj-ml,Cloud Storage,Standard Storage,29.22
+2026-05-18,proj-ml,Cloud Storage,Nearline Storage,24.57
+2026-05-18,proj-ml,BigQuery,Analysis Queries,36.32
+2026-05-18,proj-ml,BigQuery,Storage,21.26
+2026-05-18,proj-ml,Cloud SQL,DB Instance,15.22
+2026-05-18,proj-ml,Cloud SQL,Storage,20.15
+2026-05-18,proj-platform,Compute Engine,N1 Standard Core,16.41
+2026-05-18,proj-platform,Compute Engine,E2 Instance,33.41
+2026-05-18,proj-platform,Compute Engine,GPU NVIDIA T4,14.01
+2026-05-18,proj-platform,Cloud Storage,Standard Storage,36.55
+2026-05-18,proj-platform,Cloud Storage,Nearline Storage,40.13
+2026-05-18,proj-platform,BigQuery,Analysis Queries,35.6
+2026-05-18,proj-platform,BigQuery,Storage,49.33
+2026-05-18,proj-platform,Cloud SQL,DB Instance,33.49
+2026-05-18,proj-platform,Cloud SQL,Storage,49.94
+2026-05-19,proj-finance,Compute Engine,N1 Standard Core,8.88
+2026-05-19,proj-finance,Compute Engine,E2 Instance,26.96
+2026-05-19,proj-finance,Compute Engine,GPU NVIDIA T4,31.35
+2026-05-19,proj-finance,Cloud Storage,Standard Storage,40.55
+2026-05-19,proj-finance,Cloud Storage,Nearline Storage,17.53
+2026-05-19,proj-finance,BigQuery,Analysis Queries,28.54
+2026-05-19,proj-finance,BigQuery,Storage,15.41
+2026-05-19,proj-finance,Cloud SQL,DB Instance,31.52
+2026-05-19,proj-finance,Cloud SQL,Storage,17.37
+2026-05-19,proj-ml,Compute Engine,N1 Standard Core,25.77
+2026-05-19,proj-ml,Compute Engine,E2 Instance,16.14
+2026-05-19,proj-ml,Compute Engine,GPU NVIDIA T4,44.35
+2026-05-19,proj-ml,Cloud Storage,Standard Storage,6.88
+2026-05-19,proj-ml,Cloud Storage,Nearline Storage,44.07
+2026-05-19,proj-ml,BigQuery,Analysis Queries,42.32
+2026-05-19,proj-ml,BigQuery,Storage,6.85
+2026-05-19,proj-ml,Cloud SQL,DB Instance,48.35
+2026-05-19,proj-ml,Cloud SQL,Storage,14.38
+2026-05-19,proj-platform,Compute Engine,N1 Standard Core,48.24
+2026-05-19,proj-platform,Compute Engine,E2 Instance,45.12
+2026-05-19,proj-platform,Compute Engine,GPU NVIDIA T4,28.87
+2026-05-19,proj-platform,Cloud Storage,Standard Storage,33.57
+2026-05-19,proj-platform,Cloud Storage,Nearline Storage,24.21
+2026-05-19,proj-platform,BigQuery,Analysis Queries,24.88
+2026-05-19,proj-platform,BigQuery,Storage,14.05
+2026-05-19,proj-platform,Cloud SQL,DB Instance,49.19
+2026-05-19,proj-platform,Cloud SQL,Storage,16.78
+2026-05-20,proj-finance,Compute Engine,N1 Standard Core,6.5
+2026-05-20,proj-finance,Compute Engine,E2 Instance,7.38
+2026-05-20,proj-finance,Compute Engine,GPU NVIDIA T4,26.49
+2026-05-20,proj-finance,Cloud Storage,Standard Storage,41.21
+2026-05-20,proj-finance,Cloud Storage,Nearline Storage,14.38
+2026-05-20,proj-finance,BigQuery,Analysis Queries,10.2
+2026-05-20,proj-finance,BigQuery,Storage,41.81
+2026-05-20,proj-finance,Cloud SQL,DB Instance,12.35
+2026-05-20,proj-finance,Cloud SQL,Storage,30.26
+2026-05-20,proj-ml,Compute Engine,N1 Standard Core,31.06
+2026-05-20,proj-ml,Compute Engine,E2 Instance,16.91
+2026-05-20,proj-ml,Compute Engine,GPU NVIDIA T4,36.22
+2026-05-20,proj-ml,Cloud Storage,Standard Storage,44.25
+2026-05-20,proj-ml,Cloud Storage,Nearline Storage,27.49
+2026-05-20,proj-ml,BigQuery,Analysis Queries,43.93
+2026-05-20,proj-ml,BigQuery,Storage,30.93
+2026-05-20,proj-ml,Cloud SQL,DB Instance,26.81
+2026-05-20,proj-ml,Cloud SQL,Storage,35.41
+2026-05-20,proj-platform,Compute Engine,N1 Standard Core,8.39
+2026-05-20,proj-platform,Compute Engine,E2 Instance,7.65
+2026-05-20,proj-platform,Compute Engine,GPU NVIDIA T4,32.13
+2026-05-20,proj-platform,Cloud Storage,Standard Storage,34.99
+2026-05-20,proj-platform,Cloud Storage,Nearline Storage,32.32
+2026-05-20,proj-platform,BigQuery,Analysis Queries,46.06
+2026-05-20,proj-platform,BigQuery,Storage,8.69
+2026-05-20,proj-platform,Cloud SQL,DB Instance,30.37
+2026-05-20,proj-platform,Cloud SQL,Storage,40.34
+2026-05-21,proj-finance,Compute Engine,N1 Standard Core,47.33
+2026-05-21,proj-finance,Compute Engine,E2 Instance,7.33
+2026-05-21,proj-finance,Compute Engine,GPU NVIDIA T4,9.8
+2026-05-21,proj-finance,Cloud Storage,Standard Storage,22.84
+2026-05-21,proj-finance,Cloud Storage,Nearline Storage,47.78
+2026-05-21,proj-finance,BigQuery,Analysis Queries,14.56
+2026-05-21,proj-finance,BigQuery,Storage,24.28
+2026-05-21,proj-finance,Cloud SQL,DB Instance,31.38
+2026-05-21,proj-finance,Cloud SQL,Storage,41.83
+2026-05-21,proj-ml,Compute Engine,N1 Standard Core,14.65
+2026-05-21,proj-ml,Compute Engine,E2 Instance,19.57
+2026-05-21,proj-ml,Compute Engine,GPU NVIDIA T4,14.75
+2026-05-21,proj-ml,Cloud Storage,Standard Storage,12.28
+2026-05-21,proj-ml,Cloud Storage,Nearline Storage,8.51
+2026-05-21,proj-ml,BigQuery,Analysis Queries,49.0
+2026-05-21,proj-ml,BigQuery,Storage,12.19
+2026-05-21,proj-ml,Cloud SQL,DB Instance,39.8
+2026-05-21,proj-ml,Cloud SQL,Storage,39.72
+2026-05-21,proj-platform,Compute Engine,N1 Standard Core,19.96
+2026-05-21,proj-platform,Compute Engine,E2 Instance,19.16
+2026-05-21,proj-platform,Compute Engine,GPU NVIDIA T4,15.48
+2026-05-21,proj-platform,Cloud Storage,Standard Storage,39.26
+2026-05-21,proj-platform,Cloud Storage,Nearline Storage,33.68
+2026-05-21,proj-platform,BigQuery,Analysis Queries,17.64
+2026-05-21,proj-platform,BigQuery,Storage,38.44
+2026-05-21,proj-platform,Cloud SQL,DB Instance,31.29
+2026-05-21,proj-platform,Cloud SQL,Storage,10.69
+2026-05-22,proj-finance,Compute Engine,N1 Standard Core,27.31
+2026-05-22,proj-finance,Compute Engine,E2 Instance,37.98
+2026-05-22,proj-finance,Compute Engine,GPU NVIDIA T4,18.58
+2026-05-22,proj-finance,Cloud Storage,Standard Storage,7.91
+2026-05-22,proj-finance,Cloud Storage,Nearline Storage,30.7
+2026-05-22,proj-finance,BigQuery,Analysis Queries,26.06
+2026-05-22,proj-finance,BigQuery,Storage,32.67
+2026-05-22,proj-finance,Cloud SQL,DB Instance,13.42
+2026-05-22,proj-finance,Cloud SQL,Storage,43.71
+2026-05-22,proj-ml,Compute Engine,N1 Standard Core,28.35
+2026-05-22,proj-ml,Compute Engine,E2 Instance,11.94
+2026-05-22,proj-ml,Compute Engine,GPU NVIDIA T4,15.03
+2026-05-22,proj-ml,Cloud Storage,Standard Storage,22.36
+2026-05-22,proj-ml,Cloud Storage,Nearline Storage,14.62
+2026-05-22,proj-ml,BigQuery,Analysis Queries,9.34
+2026-05-22,proj-ml,BigQuery,Storage,36.83
+2026-05-22,proj-ml,Cloud SQL,DB Instance,46.43
+2026-05-22,proj-ml,Cloud SQL,Storage,31.81
+2026-05-22,proj-platform,Compute Engine,N1 Standard Core,20.56
+2026-05-22,proj-platform,Compute Engine,E2 Instance,18.42
+2026-05-22,proj-platform,Compute Engine,GPU NVIDIA T4,11.75
+2026-05-22,proj-platform,Cloud Storage,Standard Storage,40.04
+2026-05-22,proj-platform,Cloud Storage,Nearline Storage,18.25
+2026-05-22,proj-platform,BigQuery,Analysis Queries,8.86
+2026-05-22,proj-platform,BigQuery,Storage,12.69
+2026-05-22,proj-platform,Cloud SQL,DB Instance,5.24
+2026-05-22,proj-platform,Cloud SQL,Storage,31.1
+2026-05-23,proj-finance,Compute Engine,N1 Standard Core,11.56
+2026-05-23,proj-finance,Compute Engine,E2 Instance,36.98
+2026-05-23,proj-finance,Compute Engine,GPU NVIDIA T4,8.63
+2026-05-23,proj-finance,Cloud Storage,Standard Storage,20.99
+2026-05-23,proj-finance,Cloud Storage,Nearline Storage,18.89
+2026-05-23,proj-finance,BigQuery,Analysis Queries,41.86
+2026-05-23,proj-finance,BigQuery,Storage,32.5
+2026-05-23,proj-finance,Cloud SQL,DB Instance,34.37
+2026-05-23,proj-finance,Cloud SQL,Storage,36.12
+2026-05-23,proj-ml,Compute Engine,N1 Standard Core,33.62
+2026-05-23,proj-ml,Compute Engine,E2 Instance,31.83
+2026-05-23,proj-ml,Compute Engine,GPU NVIDIA T4,19.46
+2026-05-23,proj-ml,Cloud Storage,Standard Storage,41.15
+2026-05-23,proj-ml,Cloud Storage,Nearline Storage,29.77
+2026-05-23,proj-ml,BigQuery,Analysis Queries,49.62
+2026-05-23,proj-ml,BigQuery,Storage,23.85
+2026-05-23,proj-ml,Cloud SQL,DB Instance,29.54
+2026-05-23,proj-ml,Cloud SQL,Storage,37.79
+2026-05-23,proj-platform,Compute Engine,N1 Standard Core,7.54
+2026-05-23,proj-platform,Compute Engine,E2 Instance,13.63
+2026-05-23,proj-platform,Compute Engine,GPU NVIDIA T4,44.04
+2026-05-23,proj-platform,Cloud Storage,Standard Storage,28.43
+2026-05-23,proj-platform,Cloud Storage,Nearline Storage,38.5
+2026-05-23,proj-platform,BigQuery,Analysis Queries,7.19
+2026-05-23,proj-platform,BigQuery,Storage,38.57
+2026-05-23,proj-platform,Cloud SQL,DB Instance,32.94
+2026-05-23,proj-platform,Cloud SQL,Storage,32.4
+2026-05-24,proj-finance,Compute Engine,N1 Standard Core,39.66
+2026-05-24,proj-finance,Compute Engine,E2 Instance,15.77
+2026-05-24,proj-finance,Compute Engine,GPU NVIDIA T4,46.41
+2026-05-24,proj-finance,Cloud Storage,Standard Storage,46.44
+2026-05-24,proj-finance,Cloud Storage,Nearline Storage,38.88
+2026-05-24,proj-finance,BigQuery,Analysis Queries,45.07
+2026-05-24,proj-finance,BigQuery,Storage,21.68
+2026-05-24,proj-finance,Cloud SQL,DB Instance,46.97
+2026-05-24,proj-finance,Cloud SQL,Storage,46.91
+2026-05-24,proj-ml,Compute Engine,N1 Standard Core,10.03
+2026-05-24,proj-ml,Compute Engine,E2 Instance,45.9
+2026-05-24,proj-ml,Compute Engine,GPU NVIDIA T4,32.96
+2026-05-24,proj-ml,Cloud Storage,Standard Storage,6.64
+2026-05-24,proj-ml,Cloud Storage,Nearline Storage,36.72
+2026-05-24,proj-ml,BigQuery,Analysis Queries,41.84
+2026-05-24,proj-ml,BigQuery,Storage,17.7
+2026-05-24,proj-ml,Cloud SQL,DB Instance,41.09
+2026-05-24,proj-ml,Cloud SQL,Storage,46.65
+2026-05-24,proj-platform,Compute Engine,N1 Standard Core,28.35
+2026-05-24,proj-platform,Compute Engine,E2 Instance,28.84
+2026-05-24,proj-platform,Compute Engine,GPU NVIDIA T4,30.83
+2026-05-24,proj-platform,Cloud Storage,Standard Storage,33.24
+2026-05-24,proj-platform,Cloud Storage,Nearline Storage,40.27
+2026-05-24,proj-platform,BigQuery,Analysis Queries,42.96
+2026-05-24,proj-platform,BigQuery,Storage,17.72
+2026-05-24,proj-platform,Cloud SQL,DB Instance,22.78
+2026-05-24,proj-platform,Cloud SQL,Storage,29.51
+2026-05-25,proj-finance,Compute Engine,N1 Standard Core,26.59
+2026-05-25,proj-finance,Compute Engine,E2 Instance,21.04
+2026-05-25,proj-finance,Compute Engine,GPU NVIDIA T4,25.21
+2026-05-25,proj-finance,Cloud Storage,Standard Storage,35.43
+2026-05-25,proj-finance,Cloud Storage,Nearline Storage,23.47
+2026-05-25,proj-finance,BigQuery,Analysis Queries,9.02
+2026-05-25,proj-finance,BigQuery,Storage,13.49
+2026-05-25,proj-finance,Cloud SQL,DB Instance,32.72
+2026-05-25,proj-finance,Cloud SQL,Storage,5.71
+2026-05-25,proj-ml,Compute Engine,N1 Standard Core,27.58
+2026-05-25,proj-ml,Compute Engine,E2 Instance,43.44
+2026-05-25,proj-ml,Compute Engine,GPU NVIDIA T4,17.97
+2026-05-25,proj-ml,Cloud Storage,Standard Storage,40.81
+2026-05-25,proj-ml,Cloud Storage,Nearline Storage,45.06
+2026-05-25,proj-ml,BigQuery,Analysis Queries,33.04
+2026-05-25,proj-ml,BigQuery,Storage,47.27
+2026-05-25,proj-ml,Cloud SQL,DB Instance,25.8
+2026-05-25,proj-ml,Cloud SQL,Storage,30.51
+2026-05-25,proj-platform,Compute Engine,N1 Standard Core,17.82
+2026-05-25,proj-platform,Compute Engine,E2 Instance,28.12
+2026-05-25,proj-platform,Compute Engine,GPU NVIDIA T4,39.16
+2026-05-25,proj-platform,Cloud Storage,Standard Storage,20.73
+2026-05-25,proj-platform,Cloud Storage,Nearline Storage,34.46
+2026-05-25,proj-platform,BigQuery,Analysis Queries,37.44
+2026-05-25,proj-platform,BigQuery,Storage,35.74
+2026-05-25,proj-platform,Cloud SQL,DB Instance,34.65
+2026-05-25,proj-platform,Cloud SQL,Storage,19.96
+2026-05-26,proj-finance,Compute Engine,N1 Standard Core,31.44
+2026-05-26,proj-finance,Compute Engine,E2 Instance,47.78
+2026-05-26,proj-finance,Compute Engine,GPU NVIDIA T4,11.14
+2026-05-26,proj-finance,Cloud Storage,Standard Storage,12.43
+2026-05-26,proj-finance,Cloud Storage,Nearline Storage,11.29
+2026-05-26,proj-finance,BigQuery,Analysis Queries,6.21
+2026-05-26,proj-finance,BigQuery,Storage,40.47
+2026-05-26,proj-finance,Cloud SQL,DB Instance,17.49
+2026-05-26,proj-finance,Cloud SQL,Storage,28.84
+2026-05-26,proj-ml,Compute Engine,N1 Standard Core,32.84
+2026-05-26,proj-ml,Compute Engine,E2 Instance,17.58
+2026-05-26,proj-ml,Compute Engine,GPU NVIDIA T4,48.76
+2026-05-26,proj-ml,Cloud Storage,Standard Storage,35.08
+2026-05-26,proj-ml,Cloud Storage,Nearline Storage,18.94
+2026-05-26,proj-ml,BigQuery,Analysis Queries,44.41
+2026-05-26,proj-ml,BigQuery,Storage,15.98
+2026-05-26,proj-ml,Cloud SQL,DB Instance,11.14
+2026-05-26,proj-ml,Cloud SQL,Storage,15.99
+2026-05-26,proj-platform,Compute Engine,N1 Standard Core,49.68
+2026-05-26,proj-platform,Compute Engine,E2 Instance,45.44
+2026-05-26,proj-platform,Compute Engine,GPU NVIDIA T4,5.25
+2026-05-26,proj-platform,Cloud Storage,Standard Storage,46.12
+2026-05-26,proj-platform,Cloud Storage,Nearline Storage,17.16
+2026-05-26,proj-platform,BigQuery,Analysis Queries,41.0
+2026-05-26,proj-platform,BigQuery,Storage,35.14
+2026-05-26,proj-platform,Cloud SQL,DB Instance,42.66
+2026-05-26,proj-platform,Cloud SQL,Storage,45.15
+2026-05-27,proj-finance,Compute Engine,N1 Standard Core,14.81
+2026-05-27,proj-finance,Compute Engine,E2 Instance,49.42
+2026-05-27,proj-finance,Compute Engine,GPU NVIDIA T4,22.35
+2026-05-27,proj-finance,Cloud Storage,Standard Storage,27.09
+2026-05-27,proj-finance,Cloud Storage,Nearline Storage,38.64
+2026-05-27,proj-finance,BigQuery,Analysis Queries,42.82
+2026-05-27,proj-finance,BigQuery,Storage,42.91
+2026-05-27,proj-finance,Cloud SQL,DB Instance,17.02
+2026-05-27,proj-finance,Cloud SQL,Storage,22.49
+2026-05-27,proj-ml,Compute Engine,N1 Standard Core,49.55
+2026-05-27,proj-ml,Compute Engine,E2 Instance,5.65
+2026-05-27,proj-ml,Compute Engine,GPU NVIDIA T4,36.63
+2026-05-27,proj-ml,Cloud Storage,Standard Storage,21.58
+2026-05-27,proj-ml,Cloud Storage,Nearline Storage,30.13
+2026-05-27,proj-ml,BigQuery,Analysis Queries,22.85
+2026-05-27,proj-ml,BigQuery,Storage,7.7
+2026-05-27,proj-ml,Cloud SQL,DB Instance,30.97
+2026-05-27,proj-ml,Cloud SQL,Storage,48.78
+2026-05-27,proj-platform,Compute Engine,N1 Standard Core,16.77
+2026-05-27,proj-platform,Compute Engine,E2 Instance,29.73
+2026-05-27,proj-platform,Compute Engine,GPU NVIDIA T4,23.54
+2026-05-27,proj-platform,Cloud Storage,Standard Storage,22.91
+2026-05-27,proj-platform,Cloud Storage,Nearline Storage,11.55
+2026-05-27,proj-platform,BigQuery,Analysis Queries,23.98
+2026-05-27,proj-platform,BigQuery,Storage,16.36
+2026-05-27,proj-platform,Cloud SQL,DB Instance,28.48
+2026-05-27,proj-platform,Cloud SQL,Storage,16.46
+2026-05-28,proj-finance,Compute Engine,N1 Standard Core,23.82
+2026-05-28,proj-finance,Compute Engine,E2 Instance,8.31
+2026-05-28,proj-finance,Compute Engine,GPU NVIDIA T4,30.93
+2026-05-28,proj-finance,Cloud Storage,Standard Storage,13.31
+2026-05-28,proj-finance,Cloud Storage,Nearline Storage,36.37
+2026-05-28,proj-finance,BigQuery,Analysis Queries,25.76
+2026-05-28,proj-finance,BigQuery,Storage,28.64
+2026-05-28,proj-finance,Cloud SQL,DB Instance,41.36
+2026-05-28,proj-finance,Cloud SQL,Storage,24.01
+2026-05-28,proj-ml,Compute Engine,N1 Standard Core,6.03
+2026-05-28,proj-ml,Compute Engine,E2 Instance,45.26
+2026-05-28,proj-ml,Compute Engine,GPU NVIDIA T4,33.58
+2026-05-28,proj-ml,Cloud Storage,Standard Storage,17.23
+2026-05-28,proj-ml,Cloud Storage,Nearline Storage,37.75
+2026-05-28,proj-ml,BigQuery,Analysis Queries,9.11
+2026-05-28,proj-ml,BigQuery,Storage,30.36
+2026-05-28,proj-ml,Cloud SQL,DB Instance,48.73
+2026-05-28,proj-ml,Cloud SQL,Storage,49.83
+2026-05-28,proj-platform,Compute Engine,N1 Standard Core,24.3
+2026-05-28,proj-platform,Compute Engine,E2 Instance,21.78
+2026-05-28,proj-platform,Compute Engine,GPU NVIDIA T4,27.97
+2026-05-28,proj-platform,Cloud Storage,Standard Storage,29.51
+2026-05-28,proj-platform,Cloud Storage,Nearline Storage,16.71
+2026-05-28,proj-platform,BigQuery,Analysis Queries,31.65
+2026-05-28,proj-platform,BigQuery,Storage,23.76
+2026-05-28,proj-platform,Cloud SQL,DB Instance,27.45
+2026-05-28,proj-platform,Cloud SQL,Storage,13.93
+2026-05-29,proj-finance,Compute Engine,N1 Standard Core,9.8
+2026-05-29,proj-finance,Compute Engine,E2 Instance,27.12
+2026-05-29,proj-finance,Compute Engine,GPU NVIDIA T4,22.84
+2026-05-29,proj-finance,Cloud Storage,Standard Storage,23.33
+2026-05-29,proj-finance,Cloud Storage,Nearline Storage,10.96
+2026-05-29,proj-finance,BigQuery,Analysis Queries,15.04
+2026-05-29,proj-finance,BigQuery,Storage,13.7
+2026-05-29,proj-finance,Cloud SQL,DB Instance,21.77
+2026-05-29,proj-finance,Cloud SQL,Storage,6.29
+2026-05-29,proj-ml,Compute Engine,N1 Standard Core,8.66
+2026-05-29,proj-ml,Compute Engine,E2 Instance,48.25
+2026-05-29,proj-ml,Compute Engine,GPU NVIDIA T4,18.42
+2026-05-29,proj-ml,Cloud Storage,Standard Storage,48.43
+2026-05-29,proj-ml,Cloud Storage,Nearline Storage,39.67
+2026-05-29,proj-ml,BigQuery,Analysis Queries,5.58
+2026-05-29,proj-ml,BigQuery,Storage,10.69
+2026-05-29,proj-ml,Cloud SQL,DB Instance,36.04
+2026-05-29,proj-ml,Cloud SQL,Storage,16.37
+2026-05-29,proj-platform,Compute Engine,N1 Standard Core,6.85
+2026-05-29,proj-platform,Compute Engine,E2 Instance,10.88
+2026-05-29,proj-platform,Compute Engine,GPU NVIDIA T4,42.38
+2026-05-29,proj-platform,Cloud Storage,Standard Storage,27.06
+2026-05-29,proj-platform,Cloud Storage,Nearline Storage,27.37
+2026-05-29,proj-platform,BigQuery,Analysis Queries,38.2
+2026-05-29,proj-platform,BigQuery,Storage,44.58
+2026-05-29,proj-platform,Cloud SQL,DB Instance,28.76
+2026-05-29,proj-platform,Cloud SQL,Storage,27.41
+2026-05-30,proj-finance,Compute Engine,N1 Standard Core,33.56
+2026-05-30,proj-finance,Compute Engine,E2 Instance,39.47
+2026-05-30,proj-finance,Compute Engine,GPU NVIDIA T4,38.36
+2026-05-30,proj-finance,Cloud Storage,Standard Storage,24.25
+2026-05-30,proj-finance,Cloud Storage,Nearline Storage,25.71
+2026-05-30,proj-finance,BigQuery,Analysis Queries,13.42
+2026-05-30,proj-finance,BigQuery,Storage,39.15
+2026-05-30,proj-finance,Cloud SQL,DB Instance,27.65
+2026-05-30,proj-finance,Cloud SQL,Storage,34.83
+2026-05-30,proj-ml,Compute Engine,N1 Standard Core,34.91
+2026-05-30,proj-ml,Compute Engine,E2 Instance,33.45
+2026-05-30,proj-ml,Compute Engine,GPU NVIDIA T4,7.18
+2026-05-30,proj-ml,Cloud Storage,Standard Storage,16.12
+2026-05-30,proj-ml,Cloud Storage,Nearline Storage,18.78
+2026-05-30,proj-ml,BigQuery,Analysis Queries,48.8
+2026-05-30,proj-ml,BigQuery,Storage,23.97
+2026-05-30,proj-ml,Cloud SQL,DB Instance,46.95
+2026-05-30,proj-ml,Cloud SQL,Storage,22.39
+2026-05-30,proj-platform,Compute Engine,N1 Standard Core,16.55
+2026-05-30,proj-platform,Compute Engine,E2 Instance,46.35
+2026-05-30,proj-platform,Compute Engine,GPU NVIDIA T4,22.13
+2026-05-30,proj-platform,Cloud Storage,Standard Storage,32.54
+2026-05-30,proj-platform,Cloud Storage,Nearline Storage,8.54
+2026-05-30,proj-platform,BigQuery,Analysis Queries,10.91
+2026-05-30,proj-platform,BigQuery,Storage,41.71
+2026-05-30,proj-platform,Cloud SQL,DB Instance,8.41
+2026-05-30,proj-platform,Cloud SQL,Storage,15.23
