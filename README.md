@@ -135,6 +135,19 @@ gcloud run deploy finops-agent \
   --allow-unauthenticated
 ```
 
+### Google Cloud Configuration
+
+Before running the application, update the GCP project ID in `raw_gitlab.py`:
+
+```python
+project_id = "YOUR_GCP_PROJECT_ID"
+```
+
+Replace this value with your Google Cloud project ID.
+
+The application uses this project to retrieve the GitLab token from Google Secret Manager.
+
+
 ## GitLab Setup
 
 Create a GitLab personal access token with `api` scope.
