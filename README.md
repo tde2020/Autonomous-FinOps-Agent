@@ -147,12 +147,79 @@ GITLAB_PROJECT_ID = "my-gitlab-project-id"
 
 Update it in `main.py` if you use another repo.
 
-## Demo Flow
 
-1. Open `/full_finops_report`
-2. Show detected anomalies and recommendations
-3. Open `/run_finops_agent`
-4. Show newly created GitLab issues
+## Agent Configuration
+
+The Gemini agent is implemented in `agent.py`.
+
+Before running the agent, update the following configuration values:
+
+```python
+# Gemini API key from Google AI Studio
+GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
+
+# Deployed Cloud Run API URL
+FINOPS_API = "https://YOUR_CLOUD_RUN_URL"
+```
+
+### Step 1: Create a Gemini API Key
+
+1. Open Google AI Studio.
+2. Generate a Gemini API key.
+3. Replace:
+
+```python
+GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
+```
+
+with your own API key.
+
+### Step 2: Deploy the FinOps API
+
+Deploy the FastAPI backend to Google Cloud Run.
+
+After deployment, Cloud Run will provide a service URL similar to:
+
+```text
+https://finops-agent-xxxxxxxxxx-ew.a.run.app
+```
+
+Replace:
+
+```python
+FINOPS_API = "https://YOUR_CLOUD_RUN_URL"
+```
+
+with your deployed endpoint.
+
+### Step 3: Run the Agent
+
+```bash
+python agent.py
+```
+
+The agent will:
+
+1. Retrieve cloud cost analysis from the FinOps API.
+2. Analyze anomalies using Gemini.
+3. Generate recommendations.
+4. Create actionable GitLab remediation tickets through the deployed API.
+
+### Example Workflow
+
+```text
+Gemini Agent
+      ↓
+Cloud Run FinOps API
+      ↓
+Analyze Billing Data
+      ↓
+Detect Anomalies
+      ↓
+Generate Recommendations
+      ↓
+Create GitLab Issue
+```
 
 ## Devpost Summary
 
